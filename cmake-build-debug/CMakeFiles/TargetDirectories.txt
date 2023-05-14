@@ -1,0 +1,3 @@
+C:/Users/Valera/CLionProjects/matrixx/cmake-build-debug/CMakeFiles/matrixx.dir
+C:/Users/Valera/CLionProjects/matrixx/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Valera/CLionProjects/matrixx/cmake-build-debug/CMakeFiles/rebuild_cache.dir
